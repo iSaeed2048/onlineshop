@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'GoldPlay';
+  src: url('assets/GoldplayRegular.otf')
+}
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: GoldPlay, Arial, Helvetica, sans-serif !important;
+  background-color: #E8EAF6;
+}
