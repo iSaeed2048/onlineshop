@@ -12,7 +12,7 @@
   align-items: center;
   border: none;
 }
-.select_container select {
+.select_container select, .sort_by  {
   border: none;
   font-size: 1.5rem;
 }
